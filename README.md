@@ -183,19 +183,6 @@ tail -f /tmp/openclaw-whisper.log
 ## 📄 Лицензия
 
 Этот проект распространяется под лицензией MIT. См. файл [LICENSE](LICENSE) для подробностей.
-
-## 🙏 Благодарности
-
-- [OpenClaw](https://openclaw.ai) - за потрясающую платформу
-- [Faster Whisper](https://github.com/SYSTRAN/faster-whisper) - за быструю реализацию Whisper
-- [Telegram](https://telegram.org) - за отличный мессенджер
-
-## 📞 Контакты
-
-**Elnur Aliev** - [@alievbro](https://t.me/alievbro)
-
-**GitHub:** [alievbro](https://github.com/alievbro)
-
 ---
 
 ⭐ **Если этот проект был полезен, поставьте звезду на GitHub!**
