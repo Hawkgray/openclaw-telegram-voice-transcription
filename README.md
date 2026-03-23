@@ -171,15 +171,6 @@ journalctl --user -u openclaw-gateway.service -f
 # Логи транскрипции
 tail -f /tmp/openclaw-whisper.log
 ```
-
-## 🤝 Вклад в проект
-
-1. Форкните репозиторий
-2. Создайте ветку для фичи (`git checkout -b feature/amazing-feature`)
-3. Закоммитьте изменения (`git commit -m 'Add amazing feature'`)
-4. Запушьте в ветку (`git push origin feature/amazing-feature`)
-5. Откройте Pull Request
-
 ## 📄 Лицензия
 
 Этот проект распространяется под лицензией MIT. См. файл [LICENSE](LICENSE) для подробностей.
