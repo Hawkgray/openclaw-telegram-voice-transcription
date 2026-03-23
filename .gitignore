@@ -1,0 +1,51 @@
+# Конфиденциальные данные
+*.key
+*.pem
+*.crt
+*.env
+.env*
+secrets/
+keys/
+tokens/
+
+# Временные файлы
+*.tmp
+*.log
+*.cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# OpenClaw специфичные
+openclaw.json
+gateway.json
+config.local.json
+
+# Аудио файлы (большие)
+*.ogg
+*.wav
+*.mp3
+*.m4a
+
+# Модели Whisper (очень большие)
+models/
+*.bin
+*.pt
+*.onnx
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Логи
+logs/
+*.log
